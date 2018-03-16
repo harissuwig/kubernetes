@@ -1,0 +1,16 @@
+.github/**
+Godeps/**
+api/**
+build/**
+cluster/**
+cmd/**
+docs/**
+examples/**
+hack/**
+logo/**
+plugin/**
+staging/**
+test/**
+third_party/**
+translations/**
+vendor/**
